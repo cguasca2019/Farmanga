@@ -8,6 +8,8 @@ El aplicativo está diseñado para que sea ejecutado tanto en un emulador como e
 
 Farmanga - Swift 5 - IOS 15.
 
+Así funciona el app en un dispositivo real:
+https://youtu.be/CnyZi___QgU
 
 ## Como ejecutar el app en xcode
 
