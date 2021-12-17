@@ -19,7 +19,7 @@ Esto hará que descargue los pods necesarios para su funcionamiento.
 
 
 ```sh
-cd RappiPayTest
+cd Farmanga
 pod install
 ```
 
