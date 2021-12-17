@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Cosmos (23.0.0)
+  - MotionToastView (0.1.10)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 23.0)
+  - MotionToastView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - MotionToastView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  MotionToastView: e6e03c88141c2da252cce3f5c4512e76281b4754
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 1a96e737f6117248d428617f03f97a82488d3dcb
+
+COCOAPODS: 1.11.2
